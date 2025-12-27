@@ -5,5 +5,5 @@ This is a new cross-platform and open-source programming language built using Py
 EFN offers a readable syntax and good performance. EFN is really fast. Newer EFN versions also have AI and bot features. You should have a Python interpreter for it, but if EFN will have a custom interpreter, you don't need one.
 
 # EFN's wiki
-EFN's wiki is a little documentation that shows the story of EFN and code examples like: write("This is an example."). You can view the story [here](https://github.com/Takax62/EFN/wiki/#The-untold-story-of-EFN/) and the "examples" wiki: [here](https://github.com/Takax62/EFN/wiki/#Learning-EFN/). Some documentations show in [release notes](https://github.com/Takax62/EFN/releases/).
+EFN's wiki is a little documentation that shows the story of EFN and code examples like: write("This is an example."). You can view the story [here](https://github.com/Takax62/EFN/wiki/The-story-of-EFN/) and the "examples" wiki: [here](https://github.com/Takax62/EFN/wiki/Learning-EFN/). Some documentations show in [release notes](https://github.com/Takax62/EFN/releases/).
 <img width="1024" height="1024" alt="EFN logo" src="https://github.com/user-attachments/assets/71a100d5-bb8a-4167-94cc-80a2066cafe5" />
