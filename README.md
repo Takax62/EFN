@@ -7,5 +7,5 @@ EFN offers a readable syntax and good performance. EFN is really fast (e.g, if c
 # EFN's wiki
 EFN's wiki is a little documentation that shows the story of EFN and code examples like: write("This is an example."). You can view the story [here](https://github.com/Takax62/EFN/wiki/The-story-of-EFN/) and the examples wiki: [here](https://github.com/Takax62/EFN/wiki/Learning-EFN/). There are some documentations that show up in the [release notes](https://github.com/Takax62/EFN/releases/).
 
-# EFN Logo
+# EFN's Logo
 <img width="1024" height="1024" alt="EFN logo" src="https://github.com/user-attachments/assets/71a100d5-bb8a-4167-94cc-80a2066cafe5" />
