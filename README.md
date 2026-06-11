@@ -2,8 +2,10 @@
 This is a new cross-platform and open-source programming language built using Python. It is a Python library, but I wanna build an interpreter for it too! To install, type: py -m pip install EFN X.X.zip (replace X.X with the actual version of EFN) or py -m pip install EFN (latest) or py -m pip install EFN==4.1 (example).
 
 # Why EFN?
-EFN offers a readable syntax and good performance. EFN is really fast. Newer EFN versions also have AI and bot features. You should have a Python interpreter for it, but if EFN will have a custom interpreter, you won't need one.
+EFN offers a readable syntax and good performance. EFN is really fast (e.g, if compared to normal Python without EFN and Java). Newer EFN versions also have AI (API integrating, agent creation, chat, image, in newer versions, even video generation) and features for building a Discord Bot. You should have a Python interpreter for it, but if EFN will have a custom interpreter, you won't need one.
 
 # EFN's wiki
-EFN's wiki is a little documentation that shows the story of EFN and code examples like: write("This is an example."). You can view the story [here](https://github.com/Takax62/EFN/wiki/The-story-of-EFN/) and the "examples" wiki: [here](https://github.com/Takax62/EFN/wiki/Learning-EFN/). There are some documentations that show up in the [release notes](https://github.com/Takax62/EFN/releases/).
+EFN's wiki is a little documentation that shows the story of EFN and code examples like: write("This is an example."). You can view the story [here](https://github.com/Takax62/EFN/wiki/The-story-of-EFN/) and the examples wiki: [here](https://github.com/Takax62/EFN/wiki/Learning-EFN/). There are some documentations that show up in the [release notes](https://github.com/Takax62/EFN/releases/).
+
+# EFN Logo
 <img width="1024" height="1024" alt="EFN logo" src="https://github.com/user-attachments/assets/71a100d5-bb8a-4167-94cc-80a2066cafe5" />
